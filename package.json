@@ -8,6 +8,10 @@
     "color": "#1f2230",
     "theme": "dark"
   },
+  "repository": {
+      "url": "https://github.com/Vabe/bentheme",
+      "type": "git"
+  },
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.58.0"
