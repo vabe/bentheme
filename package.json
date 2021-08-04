@@ -1,0 +1,33 @@
+{
+  "name": "bentheme",
+  "publisher": "benvalent",
+  "displayName": "bentheme",
+  "description": "My personalised version of the famous Ayu theme",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#1f2230",
+    "theme": "dark"
+  },
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "purple",
+    "dark",
+    "ben"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bentheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bentheme-color-theme.json"
+      }
+    ]
+  }
+}
