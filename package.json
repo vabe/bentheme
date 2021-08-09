@@ -1,5 +1,6 @@
 {
   "name": "bentheme",
+  "version": "0.0.3",
   "publisher": "benvalent",
   "displayName": "bentheme",
   "description": "My personalised version of the famous Ayu theme",
@@ -9,10 +10,9 @@
     "theme": "dark"
   },
   "repository": {
-      "url": "https://github.com/Vabe/bentheme",
-      "type": "git"
+    "url": "https://github.com/Vabe/bentheme",
+    "type": "git"
   },
-  "version": "0.0.2",
   "engines": {
     "vscode": "^1.58.0"
   },
